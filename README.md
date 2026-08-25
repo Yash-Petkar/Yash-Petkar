@@ -1,6 +1,6 @@
-   # Hi 👋, I'm Yash
+# Hi 👋, I'm Yash
 
-### AI/ML & 💻 Aspiring Software Engineer
+### 🤖 AI/ML Student | 💻 Aspiring Software Engineer
 
 I build software, solve problems, and explore AI/ML to create practical solutions for real-world challenges.
 
@@ -8,29 +8,26 @@ I build software, solve problems, and explore AI/ML to create practical solution
 
 ## 🚀 What I'm Working On
 
-* 💻 Software Development & Problem Solving  
+* 💻 Software Development & Problem Solving
 * 🧠 Data Structures & Algorithms
-* 🐍 Python, java & C
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Backend Development & APIs
-* 🗄️ Databases & SQL
-* ⚙️ Building Real-World Projects
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 🛠️ Building Real-World Projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-C • Python • C++ • Java
 
-### AI / ML
-Machine Learning • Deep Learning • Computer Vision
+<img src="https://skillicons.dev/icons?i=c,python,java" />
 
-### Robotics & Embedded
-Arduino • ESP32 • Sensors • Motor Control • IoT
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools
-Git • GitHub • KiCad • Creo
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
@@ -38,8 +35,7 @@ Git • GitHub • KiCad • Creo
 
 ### 🌱 SeedBot
 
-Autonomous reforestation robot designed for precision
-seed plantation, navigation, sensing and remote monitoring.
+Autonomous reforestation robot designed for precision seed plantation, navigation, sensing, and remote monitoring.
 
 **ESP32 • Arduino • GPS • LoRa • Sensors • Robotics**
 
@@ -47,14 +43,14 @@ seed plantation, navigation, sensing and remote monitoring.
 
 ## 📚 Currently Learning
 
-C → Python → C++ → DSA → Git/GitHub → SQL → Backend/Web → AI/ML
+**C → Python → Java → MySQL → DSA**
 
 ---
 
 ## 🎯 Goal
 
-**Aspiring Software Engineer | Building reliable software, exploring AI/ML, and solving real-world problems.**
+Become a Software Engineer capable of building reliable software and intelligent systems that solve real-world problems.
 
 ---
 
-### ⚡ Learn → Build → Break → Improve
+⚡ **Learn → Build → Break → Improve**
