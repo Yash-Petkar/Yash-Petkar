@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Yash
 
-<!--
-**Yash-Petkar/Yash-Petkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML & 💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I build software, solve problems, and explore AI/ML to create practical solutions for real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+* 💻 Software Development & Problem Solving
+* 🧠 Data Structures & Algorithms
+* 🐍 Python, C & C++
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Backend Development & APIs
+* 🗄️ Databases & SQL
+* ⚙️ Building Real-World Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+C • Python • C++ • Java
+
+### AI / ML
+Machine Learning • Deep Learning • Computer Vision
+
+### Robotics & Embedded
+Arduino • ESP32 • Sensors • Motor Control • IoT
+
+### Tools
+Git • GitHub • KiCad • Creo
+
+---
+
+## 🔭 Featured Project
+
+### 🌱 SeedBot
+
+Autonomous reforestation robot designed for precision
+seed plantation, navigation, sensing and remote monitoring.
+
+**ESP32 • Arduino • GPS • LoRa • Sensors • Robotics**
+
+---
+
+## 📚 Currently Learning
+
+C → Python → C++ → DSA → Git/GitHub → SQL → Backend/Web → AI/ML
+
+---
+
+## 🎯 Goal
+
+**Aspiring Software Engineer | Building reliable software, exploring AI/ML, and solving real-world problems.**
+
+---
+
+### ⚡ Learn → Build → Break → Improve
