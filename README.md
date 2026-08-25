@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yash
+   # Hi 👋, I'm Yash
 
 ### AI/ML & 💻 Aspiring Software Engineer
 
@@ -8,9 +8,9 @@ I build software, solve problems, and explore AI/ML to create practical solution
 
 ## 🚀 What I'm Working On
 
-* 💻 Software Development & Problem Solving
+* 💻 Software Development & Problem Solving  
 * 🧠 Data Structures & Algorithms
-* 🐍 Python, C & C++
+* 🐍 Python, java & C
 * 🤖 Artificial Intelligence & Machine Learning
 * 🌐 Backend Development & APIs
 * 🗄️ Databases & SQL
