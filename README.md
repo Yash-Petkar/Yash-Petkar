@@ -5,7 +5,8 @@
     width="100%"
   />
 </p>
-# Hi 👋, I'm Yash
+
+# Hi 👋, 
 
 ### 🤖 AI/ML Student | 💻 Aspiring Software Engineer
 
